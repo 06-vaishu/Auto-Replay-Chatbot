@@ -70,7 +70,7 @@ This project automates interactions with a chat application, specifically design
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-repo/auto-reply-ai-chatbot.git
+   git clone https://github.com/06-vaishu/Auto-Reply-Chatbot.gitps:
    cd auto-reply-ai-chatbot
    ```
 
