@@ -73,3 +73,41 @@ This project automates interactions with a chat application, specifically design
    git clone https://github.com/your-repo/auto-reply-ai-chatbot.git
    cd auto-reply-ai-chatbot
    ```
+
+2. **Install Dependencies**
+   Install the required Python libraries:
+
+   ```bash
+   pip install pyautogui pyperclip openai
+   ```
+
+3. **Configure OpenAI API**
+
+   * Sign up at [OpenAI](https://platform.openai.com/).
+   * Generate an API key and add it to the script.
+
+4. **Run the Bot**
+   Execute the script to start the chatbot:
+
+   ```bash
+   python auto_reply_chatbot.py
+   ```
+
+---
+
+## Contributions
+
+Contributions are welcome! Feel free to fork this repository, submit issues, or create pull requests to enhance the project.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Acknowledgements
+
+* Thanks to [OpenAI](https://openai.com/) for the amazing GPT-3.5-turbo API.
+* Inspired by the humorous creativity of Naruto-style roasting.
